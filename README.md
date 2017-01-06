@@ -1,10 +1,3 @@
-## Materialize Landing Page 
+## Landing Page for MedHob
 
-I created this landing page from scratch for [conversionape.com](http://conversionape.com) using the Materialize Framework (and I quite liked it). 
-
-Hack away.
-
---- 
-
-MIT License
-http://opensource.org/licenses/MIT
+This is the landing page for the new Hospital Management System called Medhob.
